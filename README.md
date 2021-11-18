@@ -2,6 +2,7 @@
 
 Watch the result of this project >> [here]()
 
+![database](https://user-images.githubusercontent.com/84382812/142426284-0c937c49-3120-4e82-b743-4b91f3e0f974.JPG)
 
 ## 🎯 Objectives
 - Learn how ro connect a website with a database
